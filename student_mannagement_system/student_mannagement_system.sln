@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "student_mannagement_system", "student_mannagement_system.csproj", "{02E7476F-BC72-48CD-B93C-4F3B386C54FA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "午夜鬼安装向导", "..\午夜鬼安装向导\午夜鬼安装向导.vdproj", "{B7B1C329-30AE-4C4A-B96B-8B2569B63020}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02E7476F-BC72-48CD-B93C-4F3B386C54FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02E7476F-BC72-48CD-B93C-4F3B386C54FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02E7476F-BC72-48CD-B93C-4F3B386C54FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02E7476F-BC72-48CD-B93C-4F3B386C54FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7B1C329-30AE-4C4A-B96B-8B2569B63020}.Debug|Any CPU.ActiveCfg = Debug
+		{B7B1C329-30AE-4C4A-B96B-8B2569B63020}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD22AF0F-BCD2-4B34-BFF9-00FBCC27B30D}
+	EndGlobalSection
+EndGlobal
